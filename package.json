@@ -1,0 +1,14 @@
+{
+  "name": "free-port",
+  "version": "1.0.0",
+  "description": "aplicacion que nos dice automaticamente que puerto tenemos disponible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free"
+  ],
+  "author": "JIELSAN",
+  "license": "ISC"
+}
